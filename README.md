@@ -42,3 +42,4 @@ electron-packager . --all
 *  [redux](https://egghead.io/lessons/javascript-redux-the-single-immutable-state-tree?course=getting-started-with-redux)
 *  [lodashjs](http://lodashjs.com/docs/)
 *  [lodashjs](http://lodash.think2011.net/sum)
+*  Electron API Demos.app
